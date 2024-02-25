@@ -6,7 +6,7 @@ h1 {
   height: 25px;
   margin: 10px auto;
 }
-.one  {
+  .one  {
     background-color: red;
   }
   .two {
@@ -15,4 +15,3 @@ h1 {
   .three {
     background-color: blue;
   }
-  
