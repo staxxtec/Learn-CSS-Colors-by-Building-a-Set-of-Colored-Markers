@@ -16,7 +16,7 @@ h1 {
   }
 
   .green {
-    background: #007F00;  
+    background: linear-gradient(180deg, #55680d);    
   }
   .blue {
     background-color: hsl(240, 100%, 50%);
